@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--Forest-->
+    <color name="forest_sunny_green">#47AB2F</color>
+    <color name="forest_cloudy_blue">#54717A</color>
+    <color name="forest_rainy_gray">#57575D</color>
+    
+    <color name="forest_sunny_status_orange">#ffd4a0</color>
+    <color name="forest_cloudy_status_blue">#5f8498</color>
+    <color name="forest_rainy_status_grey">#757575</color>
+
+    <!--Sea-->
+    <color name="sea_sunny_blue">#4a90e2</color>
+    <color name="sea_cloudy_blue">#628594</color>
+    <color name="sea_rainy_gray">#57575d</color>
+
+    <color name="sea_sunny_status_yellow">#f0b90e</color>
+    <color name="sea_cloudy_status_blue">#5f8498</color>
+    <color name="sea_rainy_status_grey">#757575</color>
+    <color name="white">#FFFFFF</color>
+
+</resources>
